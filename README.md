@@ -10,7 +10,7 @@ A highly optimized, minimal, and premium custom Linktree alternative built for S
 - **Zero Dependencies**: Built entirely with Vanilla HTML, CSS, and JS for maximum speed and performance.
 
 ## Live Demo
-Deployed on Netlify: [https://shimmering-otter-152824.netlify.app](https://shimmering-otter-152824.netlify.app)
+Deployed on Netlify: [https://niamns.netlify.app/](https://niamns.netlify.app/)
 
 ---
 *Designed & Engineered by Niamilah Nabil S.*
